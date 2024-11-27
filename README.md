@@ -46,3 +46,9 @@ Encryption: Secure messages using encryption protocols like SSL/TLS.
 GUI: Develop a graphical user interface for improved user experience.
 File Sharing: Allow users to send files along with text messages.
 This project is ideal for learning about socket programming, multithreading, and real-time networking concepts.
+
+SCREENSHOT / OUTPUT : 
+![Screenshot](https://github.com/CosmicViraj/TCP-Chat-Application/blob/main/WhatsApp%20Image%202024-11-26%20at%2020.35.14_768478cf.jpg
+)
+
+ 

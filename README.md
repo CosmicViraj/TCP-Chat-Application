@@ -48,7 +48,7 @@ File Sharing: Allow users to send files along with text messages.
 This project is ideal for learning about socket programming, multithreading, and real-time networking concepts.
 
 SCREENSHOT / OUTPUT : 
-![Screenshot](https://github.com/CosmicViraj/TCP-Chat-Application/blob/main/Screenshot_output.jpg
+![Screenshot](https://github.com/CosmicViraj/TCP-Chat-Application/blob/main/bin/Screenshot_output.jpg
 )
 
  

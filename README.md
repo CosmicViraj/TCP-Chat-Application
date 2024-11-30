@@ -47,7 +47,8 @@ GUI: Develop a graphical user interface for improved user experience.
 File Sharing: Allow users to send files along with text messages.
 This project is ideal for learning about socket programming, multithreading, and real-time networking concepts.
 
-SCREENSHOT / OUTPUT : 
+O/P : 
+
 ![Screenshot](https://github.com/CosmicViraj/TCP-Chat-Application/blob/main/bin/Screenshot_output.jpg
 )
 
